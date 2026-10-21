@@ -1,5 +1,4 @@
--- Deobfuscated with expertise by neuro.net.
-
+-- current updated build, find me on @parus on discord.
 local p = game
 local cloneref = cloneref or function(o) return o end
 local _genv = {}
